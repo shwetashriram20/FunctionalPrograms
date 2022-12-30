@@ -4,6 +4,9 @@
     {
         public static void Main(string[] args)
         {
+
+
+
             //FlipCoin.CalcualatePercentage();
 
             // EvenorOdd.CheckEvenorOdd();
@@ -22,7 +25,9 @@
 
             //swap2num.swapNum();
 
-            VowelConsontant.CheckVowelConsontant();
+            // VowelConsontant.CheckVowelConsontant();
+
+            Console.WriteLine("Dayfive Solutions");
         }
     }
 }
